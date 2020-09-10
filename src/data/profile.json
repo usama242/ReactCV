@@ -1,0 +1,469 @@
+{
+  "Name": "Mohamad Usama KUNNAHTUR",
+  "Position": "Web-Developer",
+  "Description": "Amalgamation of Engineer & Manager and I ❤️ Programming.",
+  "Address": "Turin, Italy",
+  "Company": "Self-Employed",
+  "School": "Politecnico di Torino",
+  "SocialMedias": [
+    "https://github.com/usama242",
+    "https://www.linkedin.com/in/usama242/",
+    "https://www.facebook.com/mohamadusama242/"
+  ],
+  "experiences": [
+    {
+      "companyName": "Self-Employed",
+      "logo": "data:image/jpeg;base64,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",
+      "url": "https://www.google.com/",
+      "roles": [
+        {
+          "title": "Web developer",
+          "description": "Full stack with speciality in Front-End Frameworks",
+          "startDate": "2020-03-27",
+          "currentJob": true,
+          "location": "Turin, Italy"
+        }
+      ]
+    },
+    {
+      "companyName": "Associazione Erminio Bullio",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHa2BAuxYeqMg/company-logo_200_200/0?e=1607558400&v=beta&t=x8uX02u8E90lrvlU8YakZBDaMOZDRPmEMwT2_cHn8u0",
+      "url": "https://www.abullio.org",
+      "roles": [
+        {
+          "title": "Project Manager",
+          "description": "Internship focussed on creating modules for Odoo PLM software",
+          "startDate": "2019-07-01",
+          "endDate": "2019-09-01",
+          "location": "Turin, Italy"
+        }
+      ]
+    },
+    {
+      "companyName": "Oxford English Academy (ABC okul group)",
+      "logo": "https://abc.k12.tr/img/logo.png",
+      "url": "https://abc.k12.tr/",
+      "roles": [
+        {
+          "title": "English Teacher",
+          "description": "Learnt management skills (If you can manage a bunch of teenagers, you can manage anyone)",
+          "startDate": "2017-06-13",
+          "endDate": "2014-10-01",
+          "location": "Ankara, Turkey"
+        }
+      ]
+    },
+    {
+      "companyName": "Turk Hava Kurumu Universitesi",
+      "logo": "https://secureservercdn.net/160.153.137.40/c1d.601.myftpupload.com/wp-content/uploads/2018/02/THK-U-Logo.png?time=1596438234",
+      "url": "https://www.thk.edu.tr/",
+      "roles": [
+        {
+          "title": "Public Relations Intern",
+          "description": "Worked on promoting the university as well as welcoming and answering prospective students.",
+          "startDate": "2013-11-13",
+          "endDate": "2014-06-01",
+          "location": "Ankara, Turkey"
+        }
+      ]
+    }
+  ],
+  "Skills": [
+    {
+      "Area": "Languages",
+      "SkillSet": [
+        {
+          "Name": "English",
+          "Hot": true
+        },
+        {
+          "Name": "Urdu",
+          "Hot": true
+        },
+        {
+          "Name": "Hindi",
+          "Hot": true
+        },
+        {
+          "Name": "Tamil",
+          "Hot": false
+        },
+        {
+          "Name": "Turkish",
+          "Hot": false
+        },
+        {
+          "Name": "Italian",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Industry Knowledge",
+      "SkillSet": [
+        {
+          "Name": "AI & Machine learning",
+          "Hot": true
+        },
+        {
+          "Name": "Industrial Engineering",
+          "Hot": true
+        },
+        {
+          "Name": "Aeronautical Engineering",
+          "Hot": true
+        },
+        {
+          "Name": "Project Management",
+          "Hot": true
+        },
+        {
+          "Name": "Object-Oriented Programming (OOP)",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Programming Language",
+      "SkillSet": [
+        {
+          "Name": "Python",
+          "Hot": true
+        },
+        {
+          "Name": "Matlab",
+          "Hot": false
+        },
+        {
+          "Name": "Fortran",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Engineering",
+      "SkillSet": [
+        {
+          "Name": "CAD (SolidWorks, CATIA)",
+          "Hot": true
+        },
+        {
+          "Name": "CFD (Ansys Fluent)",
+          "Hot": false
+        },
+        {
+          "Name": "Thermodynamics",
+          "Hot": false
+        },
+        {
+          "Name": "FEA (Abaqus, Nastran, Patran)",
+          "Hot": false
+        },
+        {
+          "Name": "Aerodynamics",
+          "Hot": true
+        },
+        {
+          "Name": "Fluid Mechanics",
+          "Hot": false
+        },
+        {
+          "Name": "Aircraft Design",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Management",
+      "SkillSet": [
+        {
+          "Name": "PM methodologies (Scrum, Agile, Kanban, etc.)",
+          "Hot": true
+        },
+        {
+          "Name": "MS Project",
+          "Hot": true
+        },
+        {
+          "Name": "MS Office",
+          "Hot": true
+        },
+        {
+          "Name": "Entrepreneurial skills",
+          "Hot": false
+        },
+        {
+          "Name": "Quality Engineering",
+          "Hot": false
+        },
+        {
+          "Name": "Risk Management",
+          "Hot": false
+        },
+        {
+          "Name": "Economics & Accounting",
+          "Hot": false
+        },
+        {
+          "Name": "Financial Engineering",
+          "Hot": true
+        },
+        {
+          "Name": "Basic legal principles",
+          "Hot": false
+        },
+        {
+          "Name": "Strategy & Organization",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Miscellaneous",
+      "SkillSet": [
+        {
+          "Name": "Public Speaking",
+          "Hot": true
+        },
+        {
+          "Name": "Team player",
+          "Hot": false
+        },
+        {
+          "Name": "Working under pressure",
+          "Hot": false
+        },
+        {
+          "Name": "Easily adaptable",
+          "Hot": true
+        },
+        {
+          "Name": "Remote working",
+          "Hot": true
+        },
+        {
+          "Name": "Availabe to relocate",
+          "Hot": false
+        },
+        {
+          "Name": "Strategy & Organization",
+          "Hot": false
+        }
+      ]
+    },
+    {
+      "Area": "Web-Based Application Development",
+      "SkillSet": [
+        {
+          "Name": "JavaScript (ES5, ES6)",
+          "Hot": true
+        },
+        {
+          "Name": "TypeScript",
+          "Hot": false
+        },
+        {
+          "Name": "HTML5",
+          "Hot": true
+        },
+        {
+          "Name": "CSS (SCSS/SASS)",
+          "Hot": true
+        },
+        {
+          "Name": "React",
+          "Hot": true
+        },
+        {
+          "Name": "Redux",
+          "Hot": false
+        },
+        {
+          "Name": "JQuery",
+          "Hot": false
+        },
+        {
+          "Name": "NPM",
+          "Hot": true
+        },
+        {
+          "Name": "REST APIs",
+          "Hot": true
+        },
+        {
+          "Name": "JEST",
+          "Hot": false
+        },
+        {
+          "Name": "WebPack",
+          "Hot": false
+        },
+        {
+          "Name": "UX/UI Design",
+          "Hot": false
+        },
+        {
+          "Name": "Markdown",
+          "Hot": false
+        },
+        {
+          "Name": "JSX",
+          "Hot": false
+        },
+        {
+          "Name": "Babel",
+          "Hot": false
+        },
+        {
+          "Name": "Service Workers",
+          "Hot": false
+        },
+        {
+          "Name": "CSS frameworks(Bootstrap, Materialize)",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Database and CLIs",
+      "SkillSet": [
+        {
+          "Name": "SQLite",
+          "Hot": true
+        },
+        {
+          "Name": "My SQL",
+          "Hot": false
+        },
+        {
+          "Name": "MongoDb",
+          "Hot": false
+        },
+        {
+          "Name": "GIT",
+          "Hot": true
+        },
+        {
+          "Name": "AWS",
+          "Hot": false
+        },
+        {
+          "Name": "Shell (Ubuntu, Linux)",
+          "Hot": false
+        }
+      ]
+    }
+  ],
+
+  "Projects": [
+    {
+      "Name": "Travel App",
+      "Description": "This website asks user to input a the date and destination they want to travel and the website retrieves weather forecast as well as photos of that place. It also retrieves Places of Interest.",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://github.com/usama242/Project-5.git"
+    },
+    {
+      "Name": "Evaluate a news article with Natural Language Processing",
+      "Description": "This website asks user to input a URL and then uses Natural Language Processing (NLP) to analyze the result. You can read the documentation in the above link.",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://github.com/usama242/Project-4"
+    },
+    {
+      "Name": "Weather Journal App",
+      "Description": "This app uses Async Javascript to fetch a request to an external API and get the weather data. You can read the documentation in the above link",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://github.com/usama242/Project-3"
+    },
+    {
+      "Name": "Conceptual Design of a Surface-to-Air Missile",
+      "Description": "The main purpose of the project was to carry out the conceptual design of a surface-to-air missile given a set of design requirements. After analyzing the design constraints, a competitor study was carried out in order to understand the existing design trends. Then, following a systems engineering approach, the design was performed and it comprised the following stages: aerodynamics, propulsion, weight and structure, flight trajectory, and measures of merit and constraints.",
+      "ScreenShotURL": "./demo.svg"
+    },
+    {
+      "Name": "Applying Artificial Intelligence techniques in Project Management",
+      "Description": "The purpose of this research is to create a model like Earned Value Management (EVM) model in Project Management for better forecasting. Some machine learning concepts will be used to better predict the project duration and minimize the cost. Traditional EVM model formulas to track Projects progress relies on too many assumptions and simplifications. This oversimplification can affect the accuracy of the forecasting which can cause delays and in turn increase project costs. There is also bias related to human perceptions in the EVM model which must be eliminated. The goal is to develop a new dynamic monitoring and optimization tool to track the progress of the project. Furthermore, to increase forecasting, rescheduling and reallocation process efficiency with new DSS (decision support system). Machine learning an ever-growing field and implementation of it in project management can change how projects are tracked. Machine learning models are trained with data already available so that the computer can make a more informed decision by itself. It should identify all the combinations and provide the best scheduling option which minimizes cost and financial exposures. Another aspect which will be focused and that is the financial exposure. The aim is to minimize the financial exposure which traditional methods do not account for. This is more practical than theoretical as banks are reluctant to fund the project if the cash flow is not smooth. The financial need should be minimized. There is a trade-off between financial exposure, cost and duration. The goal is to find a balance between these three.",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://www.researchgate.net/publication/340460180_Applying_Artificial_Intelligence_techniques_in_Project_Management"
+    },
+    {
+      "Name": "Design of a UAV with Variable-Span Morphing Wing",
+      "Description": "Significant interest towards unmanned aerial vehicles (UAV) has developed nowadays. These aircraft systems are designed to carry out certain missions such as surveillance, reconnaissance, and monitoring in civil, military and custom applications. Due to the various requirements and mission constraints, various UAV configurations exist, among which conventional and morphing aircrafts. The latter category refers to aircrafts whose configuration can be altered to achieve certain performance characteristics, namely increased flight range and endurance. This paper discusses the design process and manufacturing of a remote-controlled, experimental UAV for two wing configurations: fixed and variable span, in order to assess the potential benefits of a morphing-wing aircraft. The morphing actuation is projected to be by means of a belt-and-pulley mechanism. The aircraft is intended to transmit live images to a ground station, transmitted from a camera attached underneath the fuselage. UAV, Radio Controlled, morphing wing, performance, variable span.",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://www.researchgate.net/publication/304013506_Design_of_a_UAV_with_Variable-Span_Morphing_Wing"
+    }
+  ],
+  "Education": [
+    {
+      "SchoolName": "Politecnico di Torino",
+      "Date": "2017 - 2020",
+      "Degree": "Master of Science - MS, Engineering and Management",
+      "Location": "Turin, Italy",
+      "Description": "Average 100/110",
+      "SchoolImage": "https://upload.wikimedia.org/wikipedia/it/thumb/2/27/Politecnico_di_Torino_-_Logo.svg/1200px-Politecnico_di_Torino_-_Logo.svg.png",
+      "SchoolLink": "https://www.polito.it/",
+      "Awards": [
+        {
+          "Name": "Toastmasters",
+          "Description": "Member of a club focussed on Public Speaking and Soft-Skills"
+        },
+        {
+          "Name": "Photography",
+          "Description": "Member of a club focussed on Photography & Arts"
+        },
+        {
+          "Name": "Dance",
+          "Description": "Member of a club focussed on Latin dances"
+        },
+        {
+          "Name": "Event Organizer",
+          "Description": "Helped Organized the India day Event"
+        }
+      ]
+    },
+    {
+      "SchoolName": "Turk Hava Kurumu University",
+      "Date": "2012 - 2016",
+      "Degree": "Bachelor of Science - BS, Aeronautical Engineering",
+      "Location": "Ankara, Turkey",
+      "Description": "Average 3.08/4.0",
+      "SchoolImage": "https://secureservercdn.net/160.153.137.40/c1d.601.myftpupload.com/wp-content/uploads/2018/02/THK-U-Logo.png?time=1596438234",
+      "SchoolLink": "https://www.thk.edu.tr/",
+      "Awards": [
+        {
+          "Name": "Toastmasters",
+          "Description": "Member of a club focussed on Public Speaking and Soft-Skills"
+        },
+        {
+          "Name": "Chess",
+          "Description": "Actively represented the university in National level tournaments"
+        },
+        {
+          "Name": "UAV club",
+          "Description": "Designed and built a UAV"
+        },
+        {
+          "Name": "Book club",
+          "Description": "Met every month to discuss a new book"
+        },
+        {
+          "Name": "Movie club",
+          "Description": "Same as book club but for movies :)"
+        },
+        {
+          "Name": "Event Organizer",
+          "Description": "Helped Organized the International cultural day Event"
+        }
+      ]
+    },
+    {
+      "SchoolName": "Udacity",
+      "Date": "2020 - 2020",
+      "Degree": "Nanodegree, Front-End Web developer",
+      "Location": "Online",
+      "Description": "HTML, CSS & Javascript and frameworks. The Repos can be found in my GitHub",
+      "SchoolImage": "https://seeklogo.com/images/U/udacity-logo-A0EF09B103-seeklogo.com.png",
+      "SchoolLink": "https://www.udacity.com/",
+      "Awards": []
+    }
+  ]
+}

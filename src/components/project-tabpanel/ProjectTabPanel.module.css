@@ -1,0 +1,11 @@
+.projectPanel {
+    padding: 40px;
+}
+
+.projectDescription, .projectName {
+    pointer-events: none;
+}
+
+.openDetail {
+    outline: none !important;
+}
